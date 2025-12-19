@@ -1,1 +1,3 @@
 # nupat_ai_fellowship
+
+# I WILL MAKE MORE EXTENDED LOGING DEAILS AS THIS EVOLVES
